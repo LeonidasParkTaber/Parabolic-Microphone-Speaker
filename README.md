@@ -3,8 +3,7 @@
 An exploration of parabolic speakers and microphones.  
 This project was inspired by learning about the special properties of paraboloids in multivariable calculus.
 
-Any ray that enters a parabola parallel to its axis is reflected toward the focus, and any ray emitted from the focus exits the parabola parallel to the axis.
-
+>Any ray that enters a parabola parallel to its axis is reflected toward the focus, and any ray emitted from the focus exits the parabola parallel to the axis.
 
 *As a challenge to myself, no outside research was conducted beyond this theorem. Everything that follows is based on my own reasoning, design process, and work.*
 
