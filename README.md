@@ -6,7 +6,7 @@ This project was inspired by learning about the special properties of paraboloid
 ****
 Any ray that enters a parabola parallel to its axis is reflected toward the focus, and any ray emitted from the focus exits the parabola parallel to the axis.
 
-[Image of Theory](images/theory.png)
+[Image of Theory](https://github.com/LeonidasParkTaber/Parabolic-Microphone-Speaker/blob/main/images/theory.png)
 
 *As a challenge to myself, no outside research was conducted beyond this theorem. Everything that follows is based on my own reasoning, design process, and work.*
 ****
