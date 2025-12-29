@@ -20,13 +20,21 @@ Any ray that enters a parabola parallel to its axis is reflected toward the focu
 As a speaker, a paraboloid can be used to direct sound waves into a narrow, nearly parallel beam, reducing sound spread and loss. As a microphone, the same geometry focuses incoming sound waves toward a central point, increasing the effective signal strength.
 
 ## Desgin and Fabrication
-![Insert Image of CAD](images/CAD front, bottom, side views.png)
+![Insert Image of CAD](images/CAD_front_bottom_side_views.png)
 
-Design was done on ONSHAPE, broken into 9 square sections to be printed induviualy then assembled into the dish. To reduce filament, minimal settings were used: a 10% infil and 1 wall layer thick. To increase  dencity of matiral at location conact of the sound waves (frot of the dish) and hopefully improve reflection, the back wall was brought foward to almost meet the front way, making the thinkess of the wall the sound waves come in contact to from 1 to 3. 
+The design was created in Onshape and divided into nine square sections, which were printed individually and then assembled into the full dish. To reduce filament use, minimal print settings were used: 10% infill and a single wall layer.
 
+Effectiveness of both the microphone and speaker could be improved by making the surface the sound waves interact with as rigid as possible. The logical step in response to this then was to increase material density at the point of contact (the front surface of the dish) and bring the back wall was moved forward to nearly meet the front wall, increasing the effective thickness of the reflecting surface from about 0.4mm to about 1.2 mm.
+
+![Insert Image of Wall thinkness demonstration](images/CAD_Dish_Wall_Thinkness.png)
+
+Final Design printed and assembled:
+
+![insert image of final design](images/FINAL_PRINT.png)
 
 
 ## Capabilites of Parabolic Speaker/Microphone
-[Summary Video of Project](https://youtu.be/Xewug80HgfE)
+The Directional Speaker worked much better than expected, but due to noise the directional microphone's performance was poor. Demonstrations of both capabilities shown in following video:
+[Summary of Inital Testing: https://youtu.be/Xewug80HgfE ](https://youtu.be/Xewug80HgfE)
 
 
