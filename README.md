@@ -26,11 +26,11 @@ The design was created in Onshape and divided into nine square sections, which w
 
 Effectiveness of both the microphone and speaker could be improved by making the surface the sound waves interact with as rigid as possible. The logical step in response to this then was to increase material density at the point of contact (the front surface of the dish) and bring the back wall was moved forward to nearly meet the front wall, increasing the effective thickness of the reflecting surface from about 0.4mm to about 1.2 mm.
 
-![Insert Image of Wall thinkness demonstration](images/CAD_Dish_Wall_Thinkness.png)
+![Insert Image of Wall thinkness demonstration](images/CAD_Dish_wall_thinkness.png)
 
 Final Design printed and assembled:
 
-![insert image of final design](images/FINAL_PRINT.png)
+![insert Image of Final Design](images/FINAL_PRINT.png)
 
 
 ## Capabilites of Parabolic Speaker/Microphone
