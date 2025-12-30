@@ -7,8 +7,6 @@ Skills:
 - Onshape
 - Designing for 3D printing
 - Designing for ease of assembly
-- Developing methods for testing capabilities of designs
-- Data analysis with Excel
   
 ****
 Any ray that enters a parabola parallel to its axis is reflected toward the focus, and any ray emitted from the focus exits the parabola parallel to the axis.
