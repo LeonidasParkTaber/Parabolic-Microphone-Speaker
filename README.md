@@ -34,7 +34,10 @@ Final Design printed and assembled:
 
 
 ## Capabilites of Parabolic Speaker/Microphone
+A few inital tests were taken to verify the effectivness of the speaker, with varying sucess:
 The Directional Speaker worked much better than expected, but due to noise the directional microphone's performance was poor. Demonstrations of both capabilities shown in following video:
 [Summary of Inital Testing: https://youtu.be/Xewug80HgfE ](https://youtu.be/Xewug80HgfE)
+
+A follow up of more rigorous tests were attempted, but with ought any expensive equipment it was not possible to get any quantifiable data from the results. 
 
 
