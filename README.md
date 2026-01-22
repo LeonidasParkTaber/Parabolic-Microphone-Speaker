@@ -10,7 +10,8 @@ Skills:
 
 
 ****
-The following I learned in class:
+**The following I learned in class:**
+
 Any ray that enters a parabola parallel to its axis is reflected toward the focus, and any ray emitted from the focus exits the parabola parallel to the axis.
 
 ![Image of Theory](images/theory.png)
